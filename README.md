@@ -7,6 +7,8 @@
 
 ## Suraksha Process Flow
 
+#### A high level overview of how the process will work.
+
 <img src="Documents/Suraksha360_Flowchart.jpg" alt="Girl in a jacket" width="500" height="600">
 
 ## Creators -
