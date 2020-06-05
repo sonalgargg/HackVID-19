@@ -2,7 +2,7 @@
 
 # Project - SURAKSHA360
 ## Team HackVID-19
-#### Women Co(vi)d Hackathon - submission
+#### Women Co(vi)d Hackathon - Submission
 
 ## Description
 
@@ -13,6 +13,10 @@
 #### A high level overview of how the process will work.
 
 <img src="Documents/Suraksha360_Flowchart.jpg" alt="Girl in a jacket" width="500" height="600">
+
+## Solution Roadmap
+
+<img src="Documents/Solution_Roadmap.jpg">
 
 ## Creators -
 * Sonal Garg
