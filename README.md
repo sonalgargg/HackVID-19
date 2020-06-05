@@ -1,5 +1,8 @@
-# HackVID-19
-### Women Co(vi)d Hackathon 
+<img src="Documents/logo_suraksha360.jpg">
+
+# Project - SURAKSHA360
+## Team HackVID-19
+#### Women Co(vi)d Hackathon - submission
 
 ## Description
 
