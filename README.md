@@ -1,5 +1,5 @@
 # HackVID-19
-### Women Co(vi)de Hackathon 
+### Women Co(vi)d Hackathon 
 
 ## Description
 
