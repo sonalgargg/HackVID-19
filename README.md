@@ -16,7 +16,7 @@
 
 ## Solution Roadmap
 
-<img src="Documents/Solution_Roadmap.jpg">
+<img src="Documents/Solution_Roadmap.JPG">
 
 ## Creators -
 * Sonal Garg
